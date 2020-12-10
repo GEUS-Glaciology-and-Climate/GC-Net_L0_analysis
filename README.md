@@ -1,2 +1,4 @@
-# GCN-L0-processing-JEB
-success rate statistics and visualisations of GCN-L0 data provided by D. Houtz (output by N. Bayou) and including NGRIP data
+# GC-Net_L0_analysis
+success rate statistics and visualisations of GCN-L0 data provided by D. Houtz (output by N. Bayou)
+
+NGRIP data added, site specific codes for NGRIP
