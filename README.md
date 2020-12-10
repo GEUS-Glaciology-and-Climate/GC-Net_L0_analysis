@@ -1,4 +1,6 @@
 # GC-Net_L0_analysis
+using data from the start of the GC-Net in 1995 and as later as 2019
+
 success rate statistics and visualisations of GCN-L0 data provided by D. Houtz (output by N. Bayou)
 
 NGRIP data added, site specific codes for NGRIP
